@@ -9,7 +9,7 @@
   // to do a server-side OAuth flow and avoid this problem
   var config = {
       clientId: '021d6ed7e5604c33924542e62a3d0a2e',
-      redirectUri: 'https://illonage.github.io/',
+      redirectUri: 'https://obf.github.io/',
       authUrl: 'https://api.instagram.com',
       max_iteration: 20,
   };
